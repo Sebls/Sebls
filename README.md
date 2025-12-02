@@ -4,7 +4,7 @@
 
 ###
 
-<!-- ![Profile Image or GIF](URL_TO_YOUR_IMAGE) -->
+![i like this album](awesome_wave.jpg)
 
 ###
 
