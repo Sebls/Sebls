@@ -4,7 +4,7 @@
 
 ###
 
-![i like this album](awesome_wave.jpg)
+![i like this meme](meme.jpg)
 
 ###
 
