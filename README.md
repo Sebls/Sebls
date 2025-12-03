@@ -18,7 +18,7 @@
 
 
 
-<p align="left">✨ Passionate about AI, Generative Models and Compilers<br>📚 Currently pursuing a Master in Computational and Applied Mathematics</p>
+<p align="left">Passionate about AI, Generative Models and Compilers <br> Currently pursuing a Master in Computational and Applied Mathematics</p>
 
 
 
